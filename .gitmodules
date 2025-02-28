@@ -1,0 +1,3 @@
+[submodule "submodule-repo_ag"]
+	path = submodule-repo_ag
+	url = https://github.com/anahitz/submodule-repo_ag1.git
